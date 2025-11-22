@@ -1,7 +1,7 @@
 # 👋 Mansi Joshi
 
 ## 👨‍💻 
-I am Web3 builder at CodeCrunch Techlabs, recently exploring potential of ZK proofs and sharing my knowledge at our educational channel "CodeCrunch TechSchool".
+I am Web3 builder at CodeCrunch Techlabs, recently exploring x402 and sharing my knowledge at our educational channel "BlockchainHQ".
 
 ## 💻 Technical Skills
 - Frontend: React, Next.js, Redux, HTML, CSS, Tailwindcss, Bootstrap, Material UI.
